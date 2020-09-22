@@ -1,0 +1,15 @@
+{
+  "key": "gno",
+  "name": "gnosis",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "GNO",
+  "defaultView": "core",
+  "address": "0x6810e776880c02933d47db1b9fc05908e5386b96",
+  "token": "0x6810e776880c02933d47db1b9fc05908e5386b96",
+  "core": [
+    "0xf978dE3afb4a786df7F7b0DaC5c0814d4d6d56c6"
+  ],
+  "min": 10,
+  "invalid": []
+}
